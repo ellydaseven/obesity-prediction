@@ -1,0 +1,200 @@
+Age,Gender,Height,Weight,Family history,Main meals per day,Water consumption,Fast food consumption,Fruit and vegetable consumption,Carbonated drinks consumption,Foods between meals,Alcohol,Sleep routine,Tech device usage,Exercise,Sports activities,Intense activity,BMI,Obesity Status
+50,Female,173,79,No,3,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,Less than 7 hours a day,More than 5 hours a day,Never,Never,No,26.3958034,Overweight
+40,Female,189,108,No,3,Less than a liter,Often (4 or 5 times a week),Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Always,Never,No,30.23431595,Obese Class I
+53,Male,162,99,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,37.72290809,Obese Class II
+49,Male,142,112,Yes,3,More than 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Never,Yes,55.54453481,Obese Class III
+34,Male,145,53,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,25.20808561,Overweight
+32,Male,186,98,No,3,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,3-5 hours a day,Always,Never,No,28.32697422,Overweight
+39,Male,167,99,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,35.49786654,Obese Class II
+36,Male,189,60,No,1 or 2,Less than a liter,Never,Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,16.79684219,Underweight
+43,Male,160,93,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Never,No,Frequently,7-8 hours a day,More than 5 hours a day,Always,Never,No,36.328125,Obese Class II
+38,Female,183,77,Yes,1 or 2,1 or 2 liters,Often (4 or 5 times a week),Sometimes,Never,Yes,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,22.99262444,Normal
+27,Male,146,97,Yes,1 or 2,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Never,No,Sometimes,7-8 hours a day,More than 5 hours a day,Never,Always,No,45.5057234,Obese Class III
+41,Male,159,93,Yes,More than three meals,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,More than 8 hours a day,More than 5 hours a day,Sometimes,Never,No,36.78651952,Obese Class II
+34,Male,174,83,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Always (everyday),Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,27.41445369,Overweight
+19,Male,188,113,Yes,More than three meals,1 or 2 liters,Often (4 or 5 times a week),Sometimes,Never,No,Frequently,Less than 7 hours a day,More than 5 hours a day,Sometimes,Always,No,31.97148031,Obese Class I
+23,Male,180,114,No,3,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Never,Never,No,35.18518519,Obese Class II
+43,Male,167,53,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,Less than 7 hours a day,More than 5 hours a day,Sometimes,Never,No,19.00390835,Normal
+59,Male,137,53,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,28.23805211,Overweight
+41,Male,158,53,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,Yes,Never,Less than 7 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,21.23057202,Normal
+44,Female,169,53,No,3,1 or 2 liters,Never,Always,Always (everyday),No,Frequently,7-8 hours a day,More than 5 hours a day,Never,Never,No,18.55677322,Normal
+45,Male,165,108,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,39.66942149,Obese Class II
+28,Male,175,93,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Always,Always,No,30.36734694,Obese Class I
+34,Male,163,107,No,1 or 2,1 or 2 liters,Never,Sometimes,Sometimes,Yes,Never,Less than 7 hours a day,3-5 hours a day,Never,Sometimes,No,40.27249802,Obese Class III
+41,Male,171,99,No,3,1 or 2 liters,Often (4 or 5 times a week),Sometimes,Sometimes,Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,33.85657125,Obese Class I
+42,Male,189,53,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Sometimes,7-8 hours a day,3-5 hours a day,Sometimes,Never,No,14.8372106,Underweight
+37,Male,181,75,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,Less than 7 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,22.89307408,Normal
+19,Male,189,108,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Sometimes,7-8 hours a day,3-5 hours a day,Sometimes,Always,No,30.23431595,Obese Class I
+39,Female,136,75,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Never,Yes,Sometimes,Less than 7 hours a day,More than 5 hours a day,Always,Sometimes,No,40.54930796,Obese Class III
+28,Male,163,108,Yes,1 or 2,1 or 2 liters,Always (everyday),Sometimes,Never,No,Sometimes,Less than 7 hours a day,3-5 hours a day,Sometimes,Sometimes,No,40.64887651,Obese Class III
+49,Male,137,107,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,57.00889765,Obese Class III
+25,Male,138,109,Yes,1 or 2,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Frequently,7-8 hours a day,3-5 hours a day,Always,Never,No,57.23587482,Obese Class III
+23,Male,163,106,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Never,Never,No,39.89611954,Obese Class II
+33,Male,175,66,Yes,3,1 or 2 liters,Often (4 or 5 times a week),Sometimes,Sometimes,No,Never,More than 8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,21.55102041,Normal
+29,Male,139,112,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Frequently,7-8 hours a day,More than 5 hours a day,Always,Never,No,57.96801408,Obese Class III
+19,Female,167,107,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,Yes,38.36638101,Obese Class II
+49,Male,185,53,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,3-5 hours a day,Always,Never,No,15.48575603,Underweight
+44,Male,157,93,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,Less than 7 hours a day,More than 5 hours a day,Always,Sometimes,No,37.72972534,Obese Class II
+33,Male,163,89,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,Less than 7 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,33.49768527,Obese Class I
+36,Male,160,53,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Always (everyday),Yes,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,20.703125,Normal
+30,Male,177,64,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,20.42835711,Normal
+51,Male,137,53,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Always (everyday),No,Never,Less than 7 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,28.23805211,Overweight
+53,Male,171,88,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,30.09473,Obese Class I
+36,Male,136,102,No,3,1 or 2 liters,Often (4 or 5 times a week),Sometimes,Sometimes,Yes,Never,More than 8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,55.14705882,Obese Class III
+59,Male,144,93,Yes,3,1 or 2 liters,Often (4 or 5 times a week),Sometimes,Sometimes,Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Never,Yes,44.84953704,Obese Class III
+35,Male,181,95,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,28.99789384,Overweight
+41,Male,189,53,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,14.8372106,Underweight
+19,Male,165,105,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,38.56749311,Obese Class II
+44,Male,170,84,No,1 or 2,More than 2 liters,Always (everyday),Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,29.06574394,Overweight
+59,Male,189,53,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,14.8372106,Underweight
+22,Male,161,98,Yes,1 or 2,1 or 2 liters,Never,Always,Sometimes,Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,37.80718336,Obese Class II
+36,Male,157,113,Yes,3,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Sometimes,7-8 hours a day,3-5 hours a day,Never,Sometimes,No,45.84364477,Obese Class III
+25,Male,162,98,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Frequently,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,37.34186862,Obese Class II
+44,Male,152,97,Yes,1 or 2,1 or 2 liters,Always (everyday),Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,41.98407202,Obese Class III
+34,Male,176,114,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Never,No,Never,7-8 hours a day,3-5 hours a day,Always,Sometimes,No,36.80268595,Obese Class II
+37,Male,156,85,Yes,1 or 2,More than 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,34.92767916,Obese Class II
+26,Male,189,79,Yes,1 or 2,1 or 2 liters,Often (4 or 5 times a week),Always,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,22.11584222,Normal
+47,Male,137,92,Yes,1 or 2,1 or 2 liters,Often (4 or 5 times a week),Always,Sometimes,Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,49.01699611,Obese Class III
+40,Male,162,111,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Sometimes,Less than 7 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,42.2953818,Obese Class III
+40,Male,180,56,Yes,1 or 2,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Always (everyday),No,Frequently,7-8 hours a day,More than 5 hours a day,Always,Sometimes,Yes,17.28395062,Underweight
+47,Male,175,86,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Always (everyday),Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,28.08163265,Overweight
+42,Male,175,87,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Always (everyday),No,Sometimes,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,28.40816327,Overweight
+46,Male,183,110,No,1 or 2,1 or 2 liters,Often (4 or 5 times a week),Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Never,Yes,32.84660635,Obese Class I
+51,Male,142,95,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,47.11366792,Obese Class III
+44,Male,184,53,Yes,1 or 2,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,More than 8 hours a day,More than 5 hours a day,Always,Never,No,15.65453686,Underweight
+43,Male,163,53,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,19.94805977,Normal
+35,Male,175,107,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Never,No,Frequently,Less than 7 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,34.93877551,Obese Class II
+49,Male,164,103,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Always,No,38.29565735,Obese Class II
+28,Male,145,103,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Always,Never,Yes,48.98929845,Obese Class III
+40,Male,132,99,No,3,More than 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,Less than 7 hours a day,More than 5 hours a day,Always,Never,No,56.81818182,Obese Class III
+43,Male,166,110,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,Yes,39.91871099,Obese Class III
+52,Male,154,120,Yes,1 or 2,More than 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,Less than 7 hours a day,More than 5 hours a day,Always,Never,No,50.5987519,Obese Class III
+32,Male,186,107,No,More than three meals,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,30.92843103,Obese Class I
+35,Female,148,94,No,3,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,42.91453616,Obese Class III
+23,Male,163,65,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,24.4646016,Normal
+48,Female,137,98,No,1 or 2,1 or 2 liters,Never,Sometimes,Sometimes,No,Frequently,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,52.21375673,Obese Class III
+39,Male,159,94,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,More than 8 hours a day,3-5 hours a day,Never,Sometimes,No,37.18207349,Obese Class II
+43,Male,148,61,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Frequently,Less than 7 hours a day,More than 5 hours a day,Never,Sometimes,No,27.84879474,Overweight
+23,Male,172,101,Yes,1 or 2,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,Yes,34.14007572,Obese Class I
+42,Male,178,97,Yes,1 or 2,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,7-8 hours a day,3-5 hours a day,Always,Never,No,30.61482136,Obese Class I
+29,Male,176,114,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,Less than 7 hours a day,More than 5 hours a day,Never,Sometimes,No,36.80268595,Obese Class II
+34,Male,182,53,No,3,1 or 2 liters,Often (4 or 5 times a week),Always,Sometimes,No,Frequently,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,16.00048303,Underweight
+28,Male,184,108,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Always,Sometimes,Yes,31.89981096,Obese Class I
+39,Male,159,98,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Always,Never,No,38.76428939,Obese Class II
+19,Male,189,109,No,More than three meals,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,30.51426332,Obese Class I
+59,Male,189,53,No,1 or 2,1 or 2 liters,Often (4 or 5 times a week),Sometimes,Always (everyday),Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Never,Yes,14.8372106,Underweight
+33,Female,169,80,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,28.01022373,Overweight
+59,Female,136,92,No,More than three meals,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Never,Yes,Never,7-8 hours a day,More than 5 hours a day,Never,Always,No,49.74048443,Obese Class III
+43,Male,165,109,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,40.03673095,Obese Class III
+39,Male,183,53,No,More than three meals,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,15.82609215,Underweight
+40,Male,157,120,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Always (everyday),Yes,Never,7-8 hours a day,More than 5 hours a day,Never,Never,No,48.68351657,Obese Class III
+40,Male,160,105,No,1 or 2,More than 2 liters,Often (4 or 5 times a week),Always,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,41.015625,Obese Class III
+36,Female,136,92,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,49.74048443,Obese Class III
+41,Male,162,62,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,23.62444749,Normal
+36,Male,145,94,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,44.70868014,Obese Class III
+27,Male,161,90,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,34.72088268,Obese Class I
+22,Male,151,102,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,Yes,44.73488005,Obese Class III
+29,Male,168,82,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Never,Never,No,29.05328798,Overweight
+24,Male,162,85,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Always (everyday),Yes,Never,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,32.38835543,Obese Class I
+40,Male,160,73,No,1 or 2,1 or 2 liters,Always (everyday),Sometimes,Sometimes,No,Frequently,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,28.515625,Overweight
+30,Male,169,91,No,3,1 or 2 liters,Always (everyday),Always,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,31.86162949,Obese Class I
+33,Male,169,120,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,42.0153356,Obese Class III
+26,Male,153,120,No,1 or 2,1 or 2 liters,Never,Sometimes,Sometimes,Yes,Frequently,More than 8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,51.262335,Obese Class III
+59,Male,180,82,No,3,1 or 2 liters,Often (4 or 5 times a week),Sometimes,Always (everyday),No,Sometimes,Less than 7 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,25.30864198,Overweight
+36,Male,174,96,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Never,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,31.70828379,Obese Class I
+43,Male,184,104,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,Less than 7 hours a day,3-5 hours a day,Always,Never,No,30.71833648,Obese Class I
+40,Male,181,53,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,16.17777235,Underweight
+42,Male,182,68,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,20.52892163,Normal
+29,Male,143,120,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Always (everyday),No,Never,7-8 hours a day,3-5 hours a day,Sometimes,Sometimes,No,58.68257617,Obese Class III
+34,Male,132,80,Yes,1 or 2,1 or 2 liters,Always (everyday),Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Always,Never,Yes,45.91368228,Obese Class III
+22,Male,160,112,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Never,More than 8 hours a day,More than 5 hours a day,Sometimes,Always,Yes,43.75,Obese Class III
+43,Male,188,73,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,20.65414215,Normal
+37,Male,158,112,Yes,3,1 or 2 liters,Never,Sometimes,Always (everyday),No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,44.86460503,Obese Class III
+29,Female,160,96,Yes,1 or 2,1 or 2 liters,Never,Always,Sometimes,Yes,Never,7-8 hours a day,3-5 hours a day,Sometimes,Never,No,37.5,Obese Class II
+26,Male,176,90,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,29.05475207,Overweight
+33,Male,137,107,No,3,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,57.00889765,Obese Class III
+42,Male,166,81,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,29.39468718,Overweight
+39,Male,141,87,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Frequently,7-8 hours a day,More than 5 hours a day,Always,Never,No,43.76037423,Obese Class III
+32,Male,176,113,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Never,No,Never,7-8 hours a day,3-5 hours a day,Always,Sometimes,Yes,36.47985537,Obese Class II
+44,Male,162,110,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,41.91434233,Obese Class III
+40,Female,138,108,No,3,Less than a liter,Never,Always,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,56.71077505,Obese Class III
+29,Male,187,54,Yes,1 or 2,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,Less than 7 hours a day,More than 5 hours a day,Never,Sometimes,Yes,15.44224885,Underweight
+36,Male,160,83,No,1 or 2,1 or 2 liters,Always (everyday),Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,32.421875,Obese Class I
+47,Male,171,79,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Always (everyday),No,Frequently,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,27.01685989,Overweight
+40,Male,189,53,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Sometimes,Less than 7 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,14.8372106,Underweight
+22,Male,169,114,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Always,No,39.91456882,Obese Class III
+52,Male,166,98,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,35.56394252,Obese Class II
+29,Male,171,105,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,35.90848466,Obese Class II
+27,Male,171,78,Yes,3,Less than a liter,Never,Sometimes,Sometimes,Yes,Never,More than 8 hours a day,More than 5 hours a day,Sometimes,Sometimes,Yes,26.67487432,Overweight
+43,Male,165,55,Yes,1 or 2,1 or 2 liters,Often (4 or 5 times a week),Always,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,20.2020202,Normal
+40,Male,165,105,No,3,1 or 2 liters,Never,Sometimes,Sometimes,Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Never,Sometimes,Yes,38.56749311,Obese Class II
+42,Male,148,53,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Always (everyday),Yes,Never,7-8 hours a day,0-2 hours a day,Sometimes,Never,No,24.19649379,Normal
+44,Male,159,73,Yes,1 or 2,1 or 2 liters,Often (4 or 5 times a week),Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Never,Yes,28.87544005,Overweight
+22,Male,140,106,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,54.08163265,Obese Class III
+19,Male,148,114,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Never,Always,No,52.04528853,Obese Class III
+27,Male,187,105,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,Yes,Never,Less than 7 hours a day,More than 5 hours a day,Never,Always,No,30.02659498,Obese Class I
+41,Male,173,53,No,3,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Always,Always (everyday),Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,17.70857697,Underweight
+42,Male,161,108,Yes,1 or 2,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Frequently,More than 8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,41.66505922,Obese Class III
+59,Male,189,75,No,3,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,Less than 7 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,20.99605274,Normal
+40,Male,141,93,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Never,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Always,No,46.77833107,Obese Class III
+41,Male,189,53,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,Less than 7 hours a day,More than 5 hours a day,Sometimes,Always,No,14.8372106,Underweight
+41,Female,160,114,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Never,No,Sometimes,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,44.53125,Obese Class III
+25,Male,189,106,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Never,Never,No,29.67442121,Overweight
+36,Male,169,73,Yes,3,1 or 2 liters,Often (4 or 5 times a week),Sometimes,Sometimes,Yes,Sometimes,More than 8 hours a day,More than 5 hours a day,Sometimes,Never,No,25.55932916,Overweight
+27,Male,162,120,Yes,3,Less than a liter,Often (4 or 5 times a week),Sometimes,Sometimes,No,Never,Less than 7 hours a day,More than 5 hours a day,Sometimes,Never,Yes,45.72473708,Obese Class III
+59,Male,173,80,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,26.7299275,Overweight
+59,Male,168,64,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,22.67573696,Normal
+37,Male,182,96,No,3,More than 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Never,Always,No,28.982007,Overweight
+51,Male,166,58,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,21.04804761,Normal
+19,Male,189,53,Yes,3,1 or 2 liters,Always (everyday),Always,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,14.8372106,Underweight
+32,Male,188,85,No,1 or 2,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Always,Never,Yes,Never,Less than 7 hours a day,More than 5 hours a day,Always,Always,No,24.04934359,Normal
+32,Male,166,105,Yes,1 or 2,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,38.10422413,Obese Class II
+26,Male,146,106,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Never,Yes,Never,More than 8 hours a day,3-5 hours a day,Sometimes,Sometimes,No,49.72790392,Obese Class III
+19,Male,169,111,Yes,3,More than 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Never,Never,No,38.86418543,Obese Class II
+42,Male,159,106,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,Less than 7 hours a day,0-2 hours a day,Sometimes,Never,No,41.92872117,Obese Class III
+32,Male,166,69,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,25.03991871,Overweight
+37,Male,153,92,No,3,More than 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Frequently,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,39.3011235,Obese Class II
+29,Male,133,56,No,3,1 or 2 liters,Often (4 or 5 times a week),Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,31.6580926,Obese Class I
+48,Male,156,107,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Never,Yes,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,43.96778435,Obese Class III
+43,Male,141,120,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Always (everyday),No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Never,Yes,60.35913686,Obese Class III
+29,Female,188,67,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Frequently,Less than 7 hours a day,More than 5 hours a day,Always,Never,No,18.95654142,Normal
+25,Male,158,111,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Never,No,Sometimes,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,44.4640282,Obese Class III
+37,Female,171,75,Yes,1 or 2,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Always (everyday),Yes,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,25.64891762,Overweight
+39,Male,164,79,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,29.37239738,Overweight
+28,Male,189,97,No,3,1 or 2 liters,Never,Sometimes,Sometimes,No,Sometimes,Less than 7 hours a day,0-2 hours a day,Always,Never,No,27.15489488,Overweight
+38,Male,157,74,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,30.02150189,Obese Class I
+19,Male,185,113,No,More than three meals,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Always (everyday),Yes,Never,7-8 hours a day,3-5 hours a day,Sometimes,Always,No,33.01680058,Obese Class I
+59,Male,161,53,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,Yes,Sometimes,7-8 hours a day,3-5 hours a day,Never,Sometimes,No,20.44674202,Normal
+57,Male,182,79,No,1 or 2,1 or 2 liters,Always (everyday),Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Never,Yes,23.8497766,Normal
+31,Male,173,97,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Never,Never,No,32.41003709,Obese Class I
+41,Female,161,56,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Frequently,7-8 hours a day,3-5 hours a day,Never,Sometimes,No,21.60410478,Normal
+51,Male,163,108,No,3,1 or 2 liters,Always (everyday),Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Always,Never,No,40.64887651,Obese Class III
+27,Male,189,53,Yes,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,Yes,14.8372106,Underweight
+40,Male,167,96,No,1 or 2,More than 2 liters,Often (4 or 5 times a week),Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,34.42217362,Obese Class I
+59,Male,157,103,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Sometimes,Less than 7 hours a day,3-5 hours a day,Sometimes,Never,No,41.78668506,Obese Class III
+39,Male,179,82,Yes,1 or 2,1 or 2 liters,Never,Sometimes,Always (everyday),No,Frequently,More than 8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,25.59220998,Overweight
+25,Male,171,112,Yes,3,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Never,No,38.30238364,Obese Class II
+44,Female,160,61,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,More than 8 hours a day,More than 5 hours a day,Always,Sometimes,No,23.828125,Normal
+19,Male,181,103,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,31.43982174,Obese Class I
+24,Male,180,112,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Frequently,7-8 hours a day,More than 5 hours a day,Sometimes,Always,No,34.56790123,Obese Class I
+38,Female,139,93,Yes,1 or 2,1 or 2 liters,Never,Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Always,Sometimes,No,48.13415455,Obese Class III
+43,Male,149,60,No,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,27.02580965,Overweight
+37,Male,189,72,Yes,1 or 2,More than 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,Yes,20.15621063,Normal
+23,Male,189,112,No,3,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,31.35410543,Obese Class I
+36,Female,148,71,Yes,1 or 2,Less than a liter,Often (4 or 5 times a week),Sometimes,Always (everyday),Yes,Never,7-8 hours a day,More than 5 hours a day,Always,Never,No,32.41417093,Obese Class I
+35,Male,182,95,No,3,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Frequently,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,28.6801111,Overweight
+19,Male,138,112,Yes,1 or 2,Less than a liter,Often (4 or 5 times a week),Sometimes,Always (everyday),Yes,Never,7-8 hours a day,More than 5 hours a day,Always,Never,Yes,58.81117412,Obese Class III
+27,Female,163,70,No,1 or 2,Less than a liter,Often (4 or 5 times a week),Always,Never,No,Sometimes,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,26.34649403,Overweight
+41,Male,169,53,Yes,3,1 or 2 liters,Never,Sometimes,Always (everyday),Yes,Never,7-8 hours a day,More than 5 hours a day,Never,Never,No,18.55677322,Normal
+32,Male,171,56,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,Yes,Never,Less than 7 hours a day,3-5 hours a day,Sometimes,Never,No,19.15119182,Normal
+47,Male,151,62,Yes,More than three meals,Less than a liter,Often (4 or 5 times a week),Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Never,Sometimes,No,27.19178983,Overweight
+41,Male,175,89,Yes,3,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Always,Sometimes,No,Never,Less than 7 hours a day,More than 5 hours a day,Always,Sometimes,No,29.06122449,Overweight
+36,Male,156,110,Yes,3,Less than a liter,Often (4 or 5 times a week),Sometimes,Sometimes,Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,45.20052597,Obese Class III
+37,Female,172,71,Yes,3,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,7-8 hours a day,0-2 hours a day,Always,Sometimes,No,23.99945917,Normal
+28,Male,136,108,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Never,Less than 7 hours a day,0-2 hours a day,Never,Sometimes,No,58.39100346,Obese Class III
+34,Male,154,53,Yes,1 or 2,1 or 2 liters,Always (everyday),Sometimes,Never,No,Sometimes,More than 8 hours a day,More than 5 hours a day,Never,Sometimes,No,22.34778209,Normal
+19,Male,163,112,Yes,1 or 2,Less than a liter,Never,Sometimes,Sometimes,Yes,Never,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,42.15439046,Obese Class III
+23,Male,161,109,No,3,1 or 2 liters,Always (everyday),Sometimes,Sometimes,Yes,Sometimes,7-8 hours a day,More than 5 hours a day,Never,Sometimes,Yes,42.0508468,Obese Class III
+42,Male,182,88,No,1 or 2,1 or 2 liters,"Sometimes (1, 2 or 3 times a week)",Always,Never,No,Sometimes,7-8 hours a day,More than 5 hours a day,Always,Never,Yes,26.56683975,Overweight
+51,Male,183,95,Yes,3,Less than a liter,"Sometimes (1, 2 or 3 times a week)",Always,Always (everyday),No,Frequently,Less than 7 hours a day,More than 5 hours a day,Never,Sometimes,No,28.36752366,Overweight
+19,Male,156,104,Yes,1 or 2,More than 2 liters,"Sometimes (1, 2 or 3 times a week)",Sometimes,Sometimes,No,Sometimes,7-8 hours a day,More than 5 hours a day,Sometimes,Sometimes,No,42.73504274,Obese Class III
