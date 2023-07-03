@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 
 #loading the saved model
 
-model = pickle.load(open('C:/Users/Hp/Desktop/CEIT/Project/Codes/obesitymodel.sav', 'rb'))
+model = pickle.load(open('obesitymodel.sav', 'rb'))
 
 st.set_page_config(layout="wide")
 
