@@ -174,7 +174,7 @@ if(select == 'Predictions'):
             
 # Visualizations page
 
-else:
+elif(select == 'Analytics and Visuals'):
     
     st.title('Dataset visualizations and Exploratory analysis')
     st.subheader('Here, we visualize the data in form of charts and diagrams')
