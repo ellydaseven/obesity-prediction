@@ -12,6 +12,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+from db import create_table, add_data, view_data
 
 #loading the saved model
 
@@ -23,7 +24,7 @@ st.set_page_config(layout="wide")
 
 with st.sidebar:
     
-    select = option_menu('Menu',['Predictions','Analytics and Visuals'], default_index=0)
+    select = option_menu('Menu',['Predictions','Analytics and Visuals','Records'], default_index=0)
     
     
 # Prediction page
@@ -151,7 +152,25 @@ if(select == 'Predictions'):
             
             predict_result(prediction[0])
             
+            def store_result(pred):
+                if pred == 5:
+                    ob = "Insufficient weight"
+                elif pred == 0:
+                    ob = "Normal weight"
+                elif pred == 4:
+                    ob = "Overweight"
+                elif pred == 1:
+                    ob = "Obese Class I"
+                elif pred == 2:
+                    ob = "Obese Class II"
+                else:
+                    ob = "Obese Class III"
+                return ob
             
+            obesity = store_result(prediction[0])
+            
+            create_table()
+            add_data(age, height, weight, fastFood, carbonDrink, alcohol, exercise, sports, obesity)
             
 # Visualizations page
 
@@ -253,4 +272,27 @@ else:
         data.groupby('Obesity Status').size().plot(kind='pie', autopct='%.2f%%')
         plt.title("Obesity levels - distribution of data")
         st.pyplot(fig9)
+
+else:
+    st.title('Prediction Records')
+    st.subheader('Here, we can see the records of real-time input and its predictions')
+    
+    records = view_data()
+    
+    df = pd.DataFrame(records, columns=['Age', 'Height', 'Weight', 'Fast food consumption', 'Carbonated drinks usage', 'Alcohol', 'Exercise', 'Sports', 'Obesity'])
+    st.dataframe(df)
+    
+    @st.cache_data
+    def convert_df(df):
+        # IMPORTANT: Cache the conversion to prevent computation on every rerun
+        return df.to_csv().encode('utf-8')
+    
+    csv = convert_df(df)
+    
+    st.download_button(
+        label="Download data as CSV",
+        data=csv,
+        file_name='prediction_data.csv',
+        mime='text/csv',
+    )
             
