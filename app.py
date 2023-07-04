@@ -243,32 +243,32 @@ elif(select == 'Analytics and Visuals'):
     tab4, tab5, tab6, tab7, tab8 = st.tabs(['Fast food consumption', 'Carbonated drinks consumption', 'Exercise', 'Sports activities','Obesity Status']) 
     
     with tab4:
-        fig5 = plt.figure(figsize=(3, 3))
+        fig5 = plt.figure(figsize=(10, 6))
         data.groupby('Fast food consumption').size().plot(kind='pie', autopct='%.2f%%')
         plt.title("Fast food consumption - distribution of data")
         st.pyplot(fig5)
         
     with tab5:
-        fig6 = plt.figure(figsize=(3, 3))
+        fig6 = plt.figure(figsize=(10, 6))
         data.groupby('Carbonated drinks consumption').size().plot(kind='pie', autopct='%.2f%%')
         plt.title("Carbonated drinks consumption - distribution of data")
         st.pyplot(fig6)
         
     with tab6:
-        fig7 = plt.figure(figsize=(3, 3))
+        fig7 = plt.figure(figsize=(10, 6))
         data.groupby('Exercise').size().plot(kind='pie', autopct='%.2f%%')
         plt.title("Exercise frequency - distribution of data")
         st.pyplot(fig7)
         
     with tab7:
-        fig8 = plt.figure(figsize=(3, 3))
+        fig8 = plt.figure(figsize=(10, 6))
         data.groupby('Sports activities').size().plot(kind='pie', autopct='%.2f%%')
         plt.title("Sports activity - distribution of data")
         st.pyplot(fig8)
                
         
     with tab8:
-        fig9 = plt.figure(figsize=(3, 3))
+        fig9 = plt.figure(figsize=(10, 6))
         data.groupby('Obesity Status').size().plot(kind='pie', autopct='%.2f%%')
         plt.title("Obesity levels - distribution of data")
         st.pyplot(fig9)
