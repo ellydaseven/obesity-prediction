@@ -126,51 +126,59 @@ if(select == 'Predictions'):
             alc = alcoholEncode(alcohol)
             ex = exerciseEncode(exercise)
             sprt = sportsEncode(sports)
+
+            if age < 15 or age > 85:
+                st.warning("Please enter a valid age")
+            elif height < 120 or height > 240:
+                st.warning("Please enter a valid height")
+            elif weight < 30 or weight > 200:
+                st.warning("Please enter a valid weight")
+            else:   
             
-            #Capture the input, and put it into an numpy array
-            input_data = [age, height, weight, fast_food, carb, alc, ex, sprt]
-            pred_input = np.array([input_data])
+                #Capture the input, and put it into an numpy array
+                input_data = [age, height, weight, fast_food, carb, alc, ex, sprt]
+                pred_input = np.array([input_data])
+                
+                #Predict using the stacking model
+                prediction = model.predict(pred_input)
+                
+                #Displaying the results
+                def predict_result(pred):
+                    if pred == 5:
+                        st.error("Your obesity level is **Insufficient Weight**.You need to to gain more weight to stay healthy.")
+                    elif pred == 0:
+                        st.success("Your obesity level is **Normal Weight**. Keep up the good health and habits")
+                    elif pred == 4:
+                        st.warning("Your obesity level is **Overweight**")
+                    elif pred == 1:
+                        st.error("Your obesity Level is **Obese Class I**")
+                    elif pred == 2:
+                        st.error("Your obesity level is **Obese Class II**. Dangerous.")
+                    else:
+                        st.error("Your obesity level is **Obese Class III**. Highly dangerous.")
+                        
+                
+                predict_result(prediction[0])
+                
+                def store_result(pred):
+                    if pred == 5:
+                        ob = "Insufficient weight"
+                    elif pred == 0:
+                        ob = "Normal weight"
+                    elif pred == 4:
+                        ob = "Overweight"
+                    elif pred == 1:
+                        ob = "Obese Class I"
+                    elif pred == 2:
+                        ob = "Obese Class II"
+                    else:
+                        ob = "Obese Class III"
+                    return ob
+                
+                obesity = store_result(prediction[0])
             
-            #Predict using the stacking model
-            prediction = model.predict(pred_input)
-            
-            #Displaying the results
-            def predict_result(pred):
-                if pred == 5:
-                    st.error("Your obesity level is **Insufficient Weight**.You need to to gain more weight to stay healthy.")
-                elif pred == 0:
-                    st.success("Your obesity level is **Normal Weight**. Keep up the good health and habits")
-                elif pred == 4:
-                    st.warning("Your obesity level is **Overweight**")
-                elif pred == 1:
-                    st.error("Your obesity Level is **Obese Class I**")
-                elif pred == 2:
-                    st.error("Your obesity level is **Obese Class II**. Dangerous.")
-                else:
-                    st.error("Your obesity level is **Obese Class III**. Highly dangerous.")
-                    
-            
-            predict_result(prediction[0])
-            
-            def store_result(pred):
-                if pred == 5:
-                    ob = "Insufficient weight"
-                elif pred == 0:
-                    ob = "Normal weight"
-                elif pred == 4:
-                    ob = "Overweight"
-                elif pred == 1:
-                    ob = "Obese Class I"
-                elif pred == 2:
-                    ob = "Obese Class II"
-                else:
-                    ob = "Obese Class III"
-                return ob
-            
-            obesity = store_result(prediction[0])
-            
-            create_table()
-            add_data(age, height, weight, fastFood, carbonDrink, alcohol, exercise, sports, obesity)
+                create_table()
+                add_data(age, height, weight, fastFood, carbonDrink, alcohol, exercise, sports, obesity)
             
 # Visualizations page
 
