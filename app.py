@@ -127,12 +127,12 @@ if(select == 'Predictions'):
             ex = exerciseEncode(exercise)
             sprt = sportsEncode(sports)
 
-            if age < 15 or age > 85:
-                st.warning("Please enter a valid age")
-            elif height < 120 or height > 240:
-                st.warning("Please enter a valid height")
-            elif weight < 30 or weight > 200:
-                st.warning("Please enter a valid weight")
+            if age < 5 or age > 100:
+                st.warning("System use recommended for ages ranging from 5 to 100 years old")
+            elif height < 60 or height > 240:
+                st.warning("System use recommended for heights ranging from 60 to 240 centimeters")
+            elif weight < 25 or weight > 200:
+                st.warning("System use recommended for weights ranging from 25 to 200 kilograms")
             else:   
             
                 #Capture the input, and put it into an numpy array
